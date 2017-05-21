@@ -1,0 +1,12 @@
+C:\Temp\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Temp\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Temp\StaticDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Temp\StaticDemo\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+C:\Temp\StaticDemo\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Temp\StaticDemo\StaticDemo\obj\Debug\StaticDemo.pdb
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Temp\AssignmentWeek2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.pdb
